@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ExampleScrollingActor
+comment0.text=\r\n\ This\ class\ is\ just\ an\ example.\ You\ can\ delete\ it\ or\ change\ the\ code.\r\n\ It's\ not\ necessary\ for\ the\ scrolling\ system.\r\n
+comment1.params=
+comment1.target=ExampleScrollingActor()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Here\ you\ can\ tell\ your\ actor\ what\ he\ has\ to\ do.\r\n
+numComments=3

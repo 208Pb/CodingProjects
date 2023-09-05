@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ pope\ enemy\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ enemy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=w\ h\ cls
+comment2.target=boolean\ TL(int,\ int,\ java.lang.Class)
+comment3.params=w\ h\ cls
+comment3.target=boolean\ TR(int,\ int,\ java.lang.Class)
+comment4.params=w\ h\ cls
+comment4.target=boolean\ BL(int,\ int,\ java.lang.Class)
+comment5.params=w\ h\ cls
+comment5.target=boolean\ BR(int,\ int,\ java.lang.Class)
+comment6.params=w\ h\ cls
+comment6.target=boolean\ LT(int,\ int,\ java.lang.Class)
+comment7.params=w\ h\ cls
+comment7.target=boolean\ LB(int,\ int,\ java.lang.Class)
+comment8.params=w\ h\ cls
+comment8.target=boolean\ RT(int,\ int,\ java.lang.Class)
+comment9.params=w\ h\ cls
+comment9.target=boolean\ RB(int,\ int,\ java.lang.Class)
+numComments=10

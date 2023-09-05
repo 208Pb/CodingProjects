@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ This\ class\ is\ not\ necessary\ for\ the\ scrolling\ system.\r\n\ \r\n\ The\ enemys\ just\ run\ arround\ all\ time.\ But\ you\ can\ create\ better\ ones.\r\n
+comment1.params=
+comment1.target=Enemy()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=angle\ distance
+comment3.target=void\ move(double,\ double)
+numComments=4

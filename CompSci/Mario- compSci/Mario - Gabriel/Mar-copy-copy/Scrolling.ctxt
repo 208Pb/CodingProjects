@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Scrolling
+comment1.params=w\ h\ s\ b
+comment1.target=Scrolling(int,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ scrollActors()
+comment4.params=mainActor\ x\ y
+comment4.target=void\ addMainActor(greenfoot.Actor,\ int,\ int)
+comment5.params=a\ x\ y
+comment5.target=void\ addObject(greenfoot.Actor,\ int,\ int)
+comment6.params=a\ x\ y
+comment6.target=void\ addNonScroller(greenfoot.Actor,\ int,\ int)
+comment7.params=a
+comment7.target=void\ removeObject(greenfoot.Actor)
+numComments=8

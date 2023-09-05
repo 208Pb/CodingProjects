@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=block3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ block3\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ collisions()
+comment3.params=
+comment3.target=void\ jump()
+comment4.params=
+comment4.target=void\ shatter()
+numComments=5
